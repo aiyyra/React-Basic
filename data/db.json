@@ -1,19 +1,19 @@
 {
-    "items": [
-        {
-            "id":1,
-            "checked": false,
-            "item":"Ayam"
-        },
-        {
-            "id":2,
-            "checked": false,
-            "item":"susu"
-        },
-        {
-            "id":3,
-            "checked": false,
-            "item":"daging"
-        }
-    ]
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Ayam"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "susu"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "daging"
+    }
+  ]
 }
